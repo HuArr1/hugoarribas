@@ -93,7 +93,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Hugo Arribas"
+      text: "Hugo Arribas "
       icon: favicon.ico
       iconHeight: 18
 
