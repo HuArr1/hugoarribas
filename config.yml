@@ -12,9 +12,6 @@ taxonomies:
 
 menu:
     main:
-        - name: About
-          url: about/
-          weight: 1
         - name: Research
           url: papers/
           weight: 2
@@ -24,7 +21,7 @@ menu:
         - name: Talks
           url: talks/
           weight: 4
-        - name: Service
+        - name: Referee
           url: service/
           weight: 5
         - name: CV
@@ -66,13 +63,13 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
             - name: Teaching
               url: courses/
             - name: Talks
               url: talks/
-            - name: Reviews and Referee
+            - name: Referee
               url: service/
             - name: CV
               url: cv/
@@ -82,6 +79,8 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
+        - name: linkedin
+          url: https://fr.linkedin.com/in/hugo-arribas-243b22223
         - name: Email
           url: mailto:hugo.arribas@imt-bs.eu
 
