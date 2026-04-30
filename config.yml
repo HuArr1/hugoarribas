@@ -61,7 +61,7 @@ params:
     profileMode:
           enabled: true
           title: Hugo Arribas
-          subtitle: "PhD candidate in Economics at Institut Mines-Télécom (France). I work on the empirical assessment of public policies in digital markets, with a focus on privacy and the effects of AI on online platforms."
+          subtitle: "PhD Candidate in digital economics in Instiut Mines-Télécom Business School. Working under the supervision of pr. Grazia Cecere and pr. Vincent Lefrere. I am an empiricist mainly interested in market disruption by generative/agentic AI and its policy implications."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
