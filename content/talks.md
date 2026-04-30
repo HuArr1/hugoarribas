@@ -11,7 +11,8 @@ description: "Conferences, seminars, and workshops."
   *Toward a More Robust Definition of Consumer Privacy as an Economic Asset*
 + **13th AFREN doctoral seminar** (École des Mines, Paris) — *12/11/2025*  
   *The Whitening Effect of Text-to-Image Generation*
-
++ **2026 ISMS Marketing Science Conference** (Nova School of Business and Economics (Nova SBE), Lisbon) - *11/06/2026*
+  *Is there evidence of a whitening bias in AI-generated ads?*
 ---
 
 #### Workshops / summer schools

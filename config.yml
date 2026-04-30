@@ -61,20 +61,18 @@ params:
     profileMode:
           enabled: true
           title: Hugo Arribas
-          subtitle: "PhD Candidate in digital economics in Instiut Mines-Télécom Business School. Working under the supervision of pr. Grazia Cecere and pr. Vincent Lefrere. I am an empiricist mainly interested in market disruption by generative/agentic AI and its policy implications."
+          subtitle: "PhD Candidate at Instiut Mines-Télécom Business School (France). With research interests in digital economics, digital economics and public economics. Working under the supervision of pr. Grazia Cecere and pr. Vincent Lefrere. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: About
-              url: about/
-            - name: Research
+            - name: Papers
               url: papers/
             - name: Teaching
               url: courses/
             - name: Talks
               url: talks/
-            - name: Service
+            - name: Reviews and Referee
               url: service/
             - name: CV
               url: cv/
