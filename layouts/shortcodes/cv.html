@@ -1,0 +1,11 @@
+{{- $pdf := "cv.pdf" | relURL -}}
+<section class="cv-viewer" aria-label="Curriculum vitae of Hugo Arribas"
+    data-pdf="{{ $pdf }}"
+    data-library="{{ "js/pdfjs/pdf.min.mjs" | relURL }}"
+    data-worker="{{ "js/pdfjs/pdf.worker.min.mjs" | relURL }}">
+    <p class="cv-viewer-status" role="status" hidden>Loading CV…</p>
+    <div class="cv-pages"></div>
+</section>
+<noscript><iframe class="cv-viewer-native" src="{{ $pdf }}#view=FitH" title="Curriculum vitae of Hugo Arribas" width="100%" height="1000"></iframe></noscript>
+<p class="cv-viewer-fallback"><a href="{{ $pdf }}" target="_blank" rel="noopener">Open the CV in a new tab</a></p>
+<script type="module" src="{{ "js/cv-viewer.mjs" | relURL }}"></script>

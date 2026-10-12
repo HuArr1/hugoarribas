@@ -78,7 +78,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv/
         - name: linkedin
           url: https://fr.linkedin.com/in/hugo-arribas-243b22223
         - name: Email
