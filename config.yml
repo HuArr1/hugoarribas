@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Hugo Arribas
-          subtitle: "PhD Candidate at Instiut Mines-Télécom Business School (France). With research interests in digital economics, digital economics and public economics. Working under the supervision of pr. Grazia Cecere and pr. Vincent Lefrere. "
+          subtitle: "PhD Candidate at Instiut Mines-Télécom Business School (France). With research interests in digital economics and digital marketing. Working under the supervision of pr. Grazia Cecere and pr. Vincent Lefrere."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
