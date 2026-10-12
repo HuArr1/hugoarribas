@@ -21,7 +21,7 @@ menu:
         - name: Talks
           url: talks/
           weight: 4
-        - name: Referee
+        - name: Service
           url: service/
           weight: 5
         - name: CV
@@ -69,7 +69,7 @@ params:
               url: courses/
             - name: Talks
               url: talks/
-            - name: Referee
+            - name: Service
               url: service/
             - name: CV
               url: cv/
@@ -81,6 +81,9 @@ params:
           url: cv/
         - name: linkedin
           url: https://fr.linkedin.com/in/hugo-arribas-243b22223
+        - name: github
+          title: GitHub
+          url: https://github.com/HuArr1
         - name: Email
           url: mailto:hugo.arribas@imt-bs.eu
 
