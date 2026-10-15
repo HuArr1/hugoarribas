@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Hugo Arribas
-          subtitle: "PhD Candidate at institut Mines-Télécom Business School (France). With research interests in digital economics and digital marketing. Working under the supervision of pr. Grazia Cecere and pr. Vincent Lefrere. My PhD is funded by the PEPR TrustInClouds."
+          subtitle: "PhD Candidate at institut Mines-Télécom Business School (France). With research interests in digital economics and digital marketing. Working under the supervision of pr. [Grazia Cecere](https://sites.google.com/view/grazia-cecere/home) and pr. [Vincent Lefrere](https://sites.google.com/view/vincentlefrere/). My PhD is funded by the [PEPR TRUSTINcloudS](https://pepr-cloud.fr/fr/projet-trustinclouds/)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
